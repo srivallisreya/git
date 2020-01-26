@@ -1,3 +1,2 @@
 # git
-git repo
-test demo for git commands
+git repo for git commands
